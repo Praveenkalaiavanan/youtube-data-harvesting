@@ -1,17 +1,17 @@
 Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 
 TOOLS USED
-> Jupiter Notebook
-> MongoDB
-> MySQL Workbench 8.0 
-> Visual Studio Code
+* Jupiter Notebook
+* MongoDB
+* MySQL Workbench 8.0 
+* Visual Studio Code
 
 LIBRARIES USED
-> From googleapiclient.discovery import build
-> import pymongo
-> import pymysql
-> import pandas
-> import streamlit
+* From googleapiclient.discovery import build
+* import pymongo
+* import pymysql
+* import pandas
+* import streamlit
 
 >> PYTHON: Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the 
    complete application, including data retrieval, processing, analysis, and visualisation.
