@@ -66,6 +66,8 @@ LIBRARIES USED
   * Insert
   * Cursor
   * Ignore
+  * Delete
+  * Exists,Not Exists
   
 
 
