@@ -13,7 +13,7 @@ LIBRARIES USED
 * import pandas
 * import streamlit
 
->> PYTHON: Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the 
+>> PYTHON: Python is a powerful programming language reowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the 
    complete application, including data retrieval, processing, analysis, and visualisation.
 
 >> GOOGLE API CLIENT: The googleapiclient library in Python facilitates the communication with different Google APIs. Its primary purpose in this project is to interact with YouTube's 
